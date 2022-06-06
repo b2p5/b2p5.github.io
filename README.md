@@ -1,5 +1,7 @@
 ## Welcome to B2P5
 
+Desde B2P5 desarrollamos herramientas sobre Blockchain que muestra la información de la misma en P5.JS la cual nos sirve para hacer la representación de la cadena de forma creativa.
+
 You can use the [editor on GitHub](https://github.com/b2p5/b2p5.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
