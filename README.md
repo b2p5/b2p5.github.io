@@ -17,6 +17,10 @@ El objetivo es desarrollar las mejores ideas que recojamos del ecosistema de Blo
 
 - [Rellena áreas] (https://b2p5.github.io/clasesB2p5/Auxiliares/index_2.html)
 - [Mueve objetos] (https://b2p5.github.io/clasesB2p5/Auxiliares/index_3.html)
+- [Selecciona objetos] (https://b2p5.github.io/clasesB2p5/Auxiliares/index_4.html)
+- [Objetos chocando] (https://b2p5.github.io/clasesB2p5/Auxiliares/index_5.html)
+- [Gradiente color] (https://b2p5.github.io/clasesB2p5/Auxiliares/index_6.html)
+- [Entrelazado] (https://b2p5.github.io/entrelazado/)
 
 
 You can use the [editor on GitHub](https://github.com/b2p5/b2p5.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
