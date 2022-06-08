@@ -1,4 +1,4 @@
-![b2p5](/../../../excabit/media/logo50x50.png)    ## ¿Que es B2P5?
+## ¿Que es B2P5?   ![b2p5](/../../../excabit/media/logo50x50.png)    
 
 
 Desde B2P5 desarrollamos herramientas para Blockchain que muestra la información de la misma en P5.JS la cual nos sirve para hacer la representación de la cadena de forma creativa. En síntesis:
