@@ -11,7 +11,7 @@ El objetivo es desarrollar las mejores ideas que recojamos del ecosistema de Blo
 
 - Explorador de la Cadena de Bitcoin [( ExCaBit )](https://b2p5.github.io/excabit/)
 - Análisis Heurístico de las Txs de un Bloque [( Heuristic )](https://b2p5.github.io/heuristicV2/)
-- Carrusel de Bloques [( Carrusel )](https://b2p5.github.io/heuristicV2/)
+- Carrusel de Bloques [( Carrusel )](https://b2p5.github.io/carruselBlockchain/)
 
 
 
