@@ -1,4 +1,4 @@
-![b2p5](https://github.com/b2p5/excabit/blob/master/media/logo.png)
+![b2p5](/../../../excabit/blob/master/media/logo.png)
 ## ¿Que es B2P5?
 
 Desde B2P5 desarrollamos herramientas sobre Blockchain que muestra la información de la misma en P5.JS la cual nos sirve para hacer la representación de la cadena de forma creativa. En síntesis:
