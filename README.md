@@ -24,3 +24,4 @@ El objetivo es desarrollar las mejores ideas que recojamos del ecosistema de Blo
 
 ## Contacto
 
+-  Discord ( FranAPI#2167 )
