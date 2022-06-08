@@ -1,4 +1,4 @@
-## ¿Que es B2P5?   ![b2p5](/../../../excabit/media/logo50x50.png)    
+![b2p5](/../../../excabit/media/logo50x50.png)    
 
 
 Desde B2P5 desarrollamos herramientas para Blockchain que muestra la información de la misma en P5.JS la cual nos sirve para hacer la representación de la cadena de forma creativa. En síntesis:
@@ -21,4 +21,6 @@ El objetivo es desarrollar las mejores ideas que recojamos del ecosistema de Blo
 - [Objetos chocando](https://b2p5.github.io/clasesB2p5/Auxiliares/index_5.html)
 - [Gradiente color](https://b2p5.github.io/clasesB2p5/Auxiliares/index_6.html)
 - [Entrelazado](https://b2p5.github.io/entrelazado/)
+
+## Contacto
 
