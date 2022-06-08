@@ -1,6 +1,12 @@
+![b2p5](https://github.com/b2p5/excabit/blob/master/media/logo.png)
 ## ¿Que es B2P5?
 
-Desde B2P5 desarrollamos herramientas sobre Blockchain que muestra la información de la misma en P5.JS la cual nos sirve para hacer la representación de la cadena de forma creativa.
+Desde B2P5 desarrollamos herramientas sobre Blockchain que muestra la información de la misma en P5.JS la cual nos sirve para hacer la representación de la cadena de forma creativa. En síntesis:
+>Elevar los datos a **información** y revelar  el **conocimiento** que contienen.
+
+El objetivo es desarrollar las mejores ideas que recojamos del ecosistema de Blockchain, por lo tanto, si tienes una buena idea cuentanosla y, con tu colaboración, la intentaremos llevar a cabo.
+
+
 
 You can use the [editor on GitHub](https://github.com/b2p5/b2p5.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
