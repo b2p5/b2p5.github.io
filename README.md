@@ -5,7 +5,7 @@ Desde B2P5 desarrollamos herramientas para Blockchain que muestra la informació
 
 >Elevar los datos a **información** y revelar  el **conocimiento** que contienen.
 
-El objetivo es desarrollar las mejores ideas que recojamos del ecosistema de Blockchain, por lo tanto, si tienes una buena idea cuentanosla y, con tu colaboración, la intentaremos llevar a cabo.
+El objetivo es desarrollar las mejores ideas que recojamos del ecosistema de Blockchain, por lo tanto, **si tienes una buena idea** cuentanosla y, con tu colaboración, la intentaremos llevar a cabo.
 
 ### Portfolio de herramientas
 
