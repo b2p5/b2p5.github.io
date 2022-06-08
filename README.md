@@ -13,7 +13,7 @@ El objetivo es desarrollar las mejores ideas que recojamos del ecosistema de Blo
 - Análisis Heurístico de las Txs de un Bloque [( Heuristic )](https://b2p5.github.io/heuristicV2/)
 - Carrusel de Bloques [( Carrusel )](https://b2p5.github.io/carruselBlockchain/)
 
-## Ejercicios P5.JS
+### Ejercicios P5.JS
 
 - [Rellena áreas](https://b2p5.github.io/clasesB2p5/Auxiliares/index_2.html)
 - [Mueve objetos](https://b2p5.github.io/clasesB2p5/Auxiliares/index_3.html)
