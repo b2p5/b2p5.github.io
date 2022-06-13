@@ -1,4 +1,4 @@
-![b2p5](/../../../excabit/media/logoNuevoV1.png)    
+![b2p5](/../../../excabit/media/logoNuevo50x50V1.png)    
 
 
 Desde B2P5 desarrollamos herramientas para Blockchain que muestra la información de la misma en P5.JS la cual nos sirve para hacer la representación de la cadena de forma creativa. En síntesis:
