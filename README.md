@@ -25,7 +25,7 @@ El objetivo es desarrollar las mejores ideas que recojamos del ecosistema de Blo
 - [Entrelazado](https://b2p5.github.io/entrelazado/)
 
 
-## Contacto
+### Contacto
 
 -  Discord ( FranAPI#2167 )
 -  [Github](https://github.com/b2p5/b2p5.github.io/issues)
